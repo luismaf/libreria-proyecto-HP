@@ -1,0 +1,56 @@
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Presentacion.exe
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Presentacion.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Entidades.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Negocio.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Datos.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Negocio.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Entidades.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\bin\Debug\HP.Datos.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmABMProveedor.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmActualizarPreciosVenta.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmAgregarAlListadoFaltantes.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmBuscarInfoLibros.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmDatosLibro.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmDetallePedido.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmAgregarNC.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmElementosDeshabilitados.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmMenuPrincipal.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmListadoFaltantes.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmListadoPedidosPendientes.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmLogIn.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmABMLibros.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmNuevoCliente.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.Properties.Resources.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.frmVenta.resources
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.exe
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\HP\obj\Debug\HP.Presentacion.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.exe
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Presentacion.exe
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Presentacion.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Entidades.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Negocio.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Datos.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Entidades.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Negocio.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\bin\Debug\HP.Datos.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmABMProveedor.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmActualizarPreciosVenta.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmAgregarAlListadoFaltantes.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmBuscarInfoLibros.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmDatosLibro.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmDetallePedido.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmAgregarNC.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmElementosDeshabilitados.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmMenuPrincipal.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmListadoFaltantes.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmListadoPedidosPendientes.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmLogIn.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmABMLibros.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmNuevoCliente.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.Properties.Resources.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\HP.Presentacion.frmVenta.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\HP\obj\Debug\Presentacion.csproj.GenerateResource.Cache

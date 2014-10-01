@@ -1,0 +1,10 @@
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Entidades\bin\Debug\HP.Entidades.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Entidades\bin\Debug\HP.Entidades.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Entidades\obj\Debug\HP.Entidades.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Entidades\obj\Debug\HP.Entidades.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Entidades\bin\Debug\HP.Entidades.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Entidades\bin\Debug\HP.Entidades.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Entidades\obj\Debug\HP.Entidades.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Entidades\obj\Debug\HP.Entidades.pdb

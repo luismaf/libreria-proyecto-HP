@@ -1,0 +1,18 @@
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Negocio.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Negocio.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Datos.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Entidades.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Datos.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\bin\Debug\HP.Entidades.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\obj\Debug\HP.Negocio.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Negocio\obj\Debug\HP.Negocio.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Negocio.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Negocio.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Datos.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Entidades.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Datos.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\bin\Debug\HP.Entidades.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\obj\Debug\HP.Negocio.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Negocio\obj\Debug\HP.Negocio.pdb

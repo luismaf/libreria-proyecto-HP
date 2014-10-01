@@ -1,0 +1,14 @@
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\bin\Debug\HP.Datos.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\bin\Debug\HP.Datos.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\bin\Debug\HP.Entidades.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\bin\Debug\HP.Entidades.pdb
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\obj\Debug\HP.Datos.dll
+D:\Documentos\- Ing. en Sistemas\- Materias\_.NET\zViejos\proyecto HP\Datos\obj\Debug\HP.Datos.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\bin\Debug\HP.Datos.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\bin\Debug\HP.Datos.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\bin\Debug\HP.Entidades.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\bin\Debug\HP.Entidades.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\obj\Debug\HP.Datos.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\proyecto HP\Datos\obj\Debug\HP.Datos.pdb
